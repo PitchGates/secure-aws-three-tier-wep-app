@@ -1,7 +1,7 @@
 # Secure AWS Three-Tier Web Application
 
 ## 📌 Project Status
-🚧 **Active Development** - This project is currently in the planning and initial implementation phase. Last updated: {{Enter the current date}}.
+🚧 **Active Development** - This project is currently in the planning and initial implementation phase. Last updated: 2025-08-26.
 
 ## 🎯 Objective
 To build a secure, highly available three-tier web application on AWS that demonstrates core cloud architecture and security principles.
